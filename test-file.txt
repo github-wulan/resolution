@@ -1,4 +1,5 @@
-This is a simple readme file.
+(line 1 is deleted)
 This file is a test file in repo training tutorial.
 Be consistent, diligent, and resilient.
 Line no. 4 is editing test
+Line 5 is added
